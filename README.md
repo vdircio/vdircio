@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [victordircio.com](victordircio.com)
+- 👨‍💻 All of my projects are available at [victordircio.com](https://victordircio.com/)
 
 - 💬 Ask me about **React, Java, MySQL**
 
