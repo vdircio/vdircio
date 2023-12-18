@@ -1,4 +1,4 @@
-[![MasterHead](https://imgur.com/SawEuJI)](https://victordircio.com/)
+[![MasterHead](https://i.imgur.com/SawEuJI.jpeg)](https://victordircio.com/)
 <h1 align="center">Hi, I'm Victor Dircio</h1>
 <h3 align="center">A passionate fullstack developer from Chicago</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/thumbnail/animated-man-computer-coding-nae6mec378lsg1i3.gif">
